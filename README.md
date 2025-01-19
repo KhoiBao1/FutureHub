@@ -1,4 +1,74 @@
-
+<h1>
+<strong>&nbsp;E-commerce for Smart Devices and Robotics</strong>
+</h1>
+<hr>
+<h2>
+<strong>About Me</strong>
+</h2>
+<p>👋 <strong>Hi, I’m Bao Khoi.</strong>&nbsp;<br>📚This is my first project at the <strong>University of Information Technology - Ho Chi Minh National University</strong> from <strong>October 2024 to December 2024</strong>. It is a tech e-commerce website selling computer components, laptops, peripherals, robots, tablets, etc. Currently, the website does not have the English version.</p>
+<h3>👀 <strong>I’m interested in:</strong>
+</h3>
+<h4>🔥 <strong>Frontend Development</strong>
+</h4>
+<p>
+<strong>Languages &amp; Frameworks</strong>: React.js, HTML5, CSS3, JavaScript</p>
+<p>
+<strong>Styling</strong>: CSS, Bootstrap, SCSS</p>
+<p>
+<strong>State Management</strong>: React Query</p>
+<h4>🔥 <strong>Backend Development</strong>
+</h4>
+<p>
+<strong>Languages &amp; Frameworks</strong>: Node.js, Express.js</p>
+<p>
+<strong>Database Management</strong>: MongoDB</p>
+<p>
+<strong>Authentication</strong>: JSON Web Tokens (JWT), OAuth</p>
+<h4>🔥 <strong>Other Skills</strong>
+</h4>
+<p>
+<strong>Version Control</strong>: Git, GitHub, Docker</p>
+<p>
+<strong>Testing</strong>: Jest, Mocha, Postman</p>
+<p>🌱 <strong>I’m currently learning</strong> game programming through Unity with two main languages: Python and C++</p>
+<p>💞️ <strong>I’m looking to collaborate on:</strong> Open-source e-commerce projects, website programming (both front-end and back-end), game programming, and mobile application development.</p>
+<hr>
+<h1>
+<strong>Website Thương mại cho Thiết bị thông minh và Robot</strong>
+</h1>
+<hr>
+<h3>
+<strong>Về Tôi</strong>
+</h3>
+<p>👋 <strong>Xin chào, tôi là Bảo Khôi.</strong>&nbsp;<br>📚Đây là dự án đầu tiên của tôi tại <strong>Đại học Công nghệ Thông tin - Đại học Quốc gia TP. Hồ Chí Minh</strong> từ <strong>tháng 10 năm 2024 đến tháng 12 năm 2024</strong>. Đây là một trang web thương mại điện tử về công nghệ, chuyên bán các linh kiện máy tính, laptop, thiết bị ngoại vi, robot, máy tính bảng, v.v. Hiện tại, trang web chưa có phiên bản tiếng Anh.</p>
+<h3>👀 <strong>Tôi quan tâm đến:</strong>
+</h3>
+<h4>🔥 <strong>Phát triển Frontend</strong>
+</h4>
+<p>
+<strong>Ngôn ngữ &amp; Frameworks</strong>: React.js, HTML5, CSS3, JavaScript</p>
+<p>
+<strong>Thiết kế giao diện</strong>: CSS, Bootstrap, SCSS</p>
+<p>
+<strong>Quản lý trạng thái</strong>: React Query</p>
+<h4>🔥 <strong>Phát triển Backend</strong>
+</h4>
+<p>
+<strong>Ngôn ngữ &amp; Frameworks</strong>: Node.js, Express.js</p>
+<p>
+<strong>Quản lý cơ sở dữ liệu</strong>: MongoDB</p>
+<p>
+<strong>Xác thực</strong>: JSON Web Tokens (JWT), OAuth</p>
+<h4>🔥 <strong>Kỹ năng khác</strong>
+</h4>
+<p>
+<strong>Version Control</strong>: Git, GitHub, Docker</p>
+<p>
+<strong>Testing</strong>: Jest, Mocha, Postman</p>
+<p>🌱 <strong>Tôi hiện đang học</strong> lập trình game thông qua Unity với hai ngôn ngữ chính: Python và C++</p>
+<p>💞️ <strong>Tôi muốn hợp tác về:</strong> Các dự án mã nguồn mở liên quan đến thương mại điện tử, lập trình website (cả front-end và back-end), lập trình game và phát triển ứng dụng di động.</p>
+<p>&nbsp;</p>
+ 
 ## 🌐Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/https://discord.com/users/680666752966983685) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/khoi.bao.739) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/khoi-bao536) 
 
