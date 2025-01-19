@@ -1,0 +1,65 @@
+[{
+  "_id": {
+    "$oid": "6763013d6b0f34227c0234c5"
+  },
+  "id": 16,
+  "name": "Điện thoại",
+  "urlRewriteName": "dien-thoai",
+  "isDeleted": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "67639bd823467e275c21635c"
+  },
+  "id": 17,
+  "name": "Laptop",
+  "urlRewriteName": "laptop",
+  "isDeleted": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "67639c0c23467e275c21635d"
+  },
+  "id": 18,
+  "name": "Phụ Kiện",
+  "urlRewriteName": "phu-kien",
+  "isDeleted": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "67639c2223467e275c21635f"
+  },
+  "id": 20,
+  "name": "Đồng hồ",
+  "urlRewriteName": "dong-ho",
+  "isDeleted": false,
+  "__v": 0
+},
+  {
+    "_id": {
+      "$oid": "67639c1223467e275c21635e"
+    },
+    "id": 19,
+    "name": "Robot",
+    "urlRewriteName": "robot",
+    "isDeleted": false,
+    "__v": 0
+  }
+,{
+  "_id": {
+    "$oid": "67639c2623467e275c216360"
+  },
+  "id": 21,
+  "name": "Camera",
+  "urlRewriteName": "camera",
+  "isDeleted": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e3cdeaaa30fe0559c440d8"
+  }
+},{
+  "_id": {
+    "$oid": "6305d9b8864c29cba164f3cd"
+  }
+}]

@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "6763aa2a85dae216f072b34b"
+  },
+  "id": 57,
+  "name": "Bảo Khôi",
+  "email": "khoibao937@gmail.com",
+  "phone": "0845503595",
+  "msg": "12346",
+  "total": 20691000,
+  "status": 1,
+  "ship": "ĐHQG",
+  "payment": "TM",
+  "isDeleted": false,
+  "details": [
+    {
+      "price": 20691000,
+      "quantity": 1,
+      "item": {
+        "__v": 0,
+        "photo": "1734542523762_samsung-galaxy-s24_7_.webp",
+        "salePrice": 20691000,
+        "isDeleted": false,
+        "sale": 10,
+        "price": 22990000,
+        "description": "Đặc điểm nổi bật của Samsung Galaxy S24 8GB 256GB:\r\nKhai phá tiềm năng sáng tạo không giới hạn với tính năng AI - Phiên dịch cuộc gọi, trợ lí chỉnh ảnh\r\nSắc nét từng chi tiết - Camera 50MP với với công nghệ ProVisual, chụp đêm và siêu thu phóng\r\nPin tối ưu thông minh cho cả ngày tràn đầy năng lượng - Viên pin 4000mAh cho phép bạn xem video liên tục đến 29 giờ\r\nNâng cấp màn hình trải nghiệm tuyệt đỉnh - Màn hình 6.2\" inch Dynamic AMOLED 2X cùng tần số quét 120Hz",
+        "categoryId": 16,
+        "urlRewriteName": "samsung-galaxy-s24-8gb-256gb",
+        "name": "Samsung Galaxy S24 8GB 256GB",
+        "id": 126,
+        "_id": "676304bb6b0f34227c0234c6"
+      }
+    }
+  ],
+  "__v": 0
+}]
