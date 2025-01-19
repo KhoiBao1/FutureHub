@@ -1,0 +1,26 @@
+version: '3.9'
+
+services:
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "3000:3000" # Liên kết cổng 3000 trên máy
+    volumes:
+      - .:/futurehub # Đồng bộ mã nguồn từ máy host vào container
+    environment:
+      - MONGO_URI=mongodb://mongo:27017/my_database # URL kết nối MongoDB
+    depends_on:
+      - mongo # Đảm bảo MongoDB khởi động trước
+
+  mongo:
+    image: mongo:6
+    container_name: mongo_db
+    ports:
+      - "27017:27017" # Liên kết cổng MongoDB
+    volumes:
+      - mongo_data:/data/db # Lưu trữ dữ liệu MongoDB
+
+volumes:
+  mongo_data: # Tạo volume lưu trữ dữ liệu MongoDB
