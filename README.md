@@ -32,6 +32,7 @@
 <strong>Testing</strong>: Jest, Mocha, Postman</p>
 <p>🌱 <strong>I’m currently learning</strong> game programming through Unity with two main languages: Python and C++</p>
 <p>💞️ <strong>I’m looking to collaborate on:</strong> Open-source e-commerce projects, website programming (both front-end and back-end), game programming, and mobile application development.</p>
+<br>________________________________________________<br>Beside that, you can also take a look at the specific implementation plan and functions in my project at google drive:&nbsp;<br href="[my-file.pdf](https://drive.google.com/file/d/1e8b8III0s6ljf8TKAadm4chAEpkR6HNw/view?usp=sharing)">Report of FutureHub-This report does not have the English version.</p>
 <hr>
 <h1>
 <strong>Website Thương mại cho Thiết bị thông minh và Robot</strong>
@@ -68,7 +69,7 @@
 <p>🌱 <strong>Tôi hiện đang học</strong> lập trình game thông qua Unity với hai ngôn ngữ chính: Python và C++</p>
 <p>💞️ <strong>Tôi muốn hợp tác về:</strong> Các dự án mã nguồn mở liên quan đến thương mại điện tử, lập trình website (cả front-end và back-end), lập trình game và phát triển ứng dụng di động.</p>
 <p>&nbsp;</p>
-<br>________________________________________________<br>Bên cạnh đó bạn cũng có thể xem qua cụ thể phương án thực hiện và các chức năng trong đồ án của tôi tại google drive:&nbsp;<br href="[my-file.pdf](https://drive.google.com/file/d/1e8b8III0s6ljf8TKAadm4chAEpkR6HNw/view?usp=sharing)">https://drive.google.com/file/d/1e8b8III0s6ljf8TKAadm4chAEpkR6HNw/view?usp=sharing</p>
+<br>________________________________________________<br>Bên cạnh đó bạn cũng có thể xem qua cụ thể phương án thực hiện và các chức năng trong đồ án của tôi tại google drive:&nbsp;<br href="[my-file.pdf](https://drive.google.com/file/d/1e8b8III0s6ljf8TKAadm4chAEpkR6HNw/view?usp=sharing)">Báo cáo-FutureHub</p>
  
 ## 🌐Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/680666752966983685) 
