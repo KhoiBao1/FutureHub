@@ -3,13 +3,14 @@ module.exports = {
     port: 3000
   },
   database: {
-    connection: 'mongodb://localhost:27017/shopping',
+    connection: process.env.DB_URI || 'mongodb://localhost:27017/shopping', // Dùng biến môi trường để linh hoạt
     option: {
-      useMongoClient: true,
+      useNewUrlParser: true,
+      useUnifiedTopology: true,
       autoIndex: false
     }
   },
   session: {
-    key: '27bda112-99dd-4496-8015-ea20d1034228'
+    key: process.env.SESSION_KEY || '27bda112-99dd-4496-8015-ea20d1034228'
   }
 };
