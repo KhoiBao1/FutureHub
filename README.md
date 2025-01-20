@@ -32,7 +32,7 @@
 <strong>Testing</strong>: Jest, Mocha, Postman</p>
 <p>🌱 <strong>I’m currently learning</strong> game programming through Unity with two main languages: Python and C++</p>
 <p>💞️ <strong>I’m looking to collaborate on:</strong> Open-source e-commerce projects, website programming (both front-end and back-end), game programming, and mobile application development.</p>
-<br>________________________________________________<br>Beside that, you can also take a look at the specific implementation plan and functions in my project at google drive:&nbsp;<br href="[my-file.pdf](https://drive.google.com/file/d/1e8b8III0s6ljf8TKAadm4chAEpkR6HNw/view?usp=sharing)">Report of FutureHub-This report does not have the English version.</p>
+<br>________________________________________________<br>Beside that, you can also take a look at the specific implementation plan and functions in my project at google drive:&nbsp;<br href="(https://drive.google.com/file/d/1e8b8III0s6ljf8TKAadm4chAEpkR6HNw/view?usp=sharing)">Report of FutureHub-This report does not have the English version</p>
 <hr>
 <h1>
 <strong>Website Thương mại cho Thiết bị thông minh và Robot</strong>
