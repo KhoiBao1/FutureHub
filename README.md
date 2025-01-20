@@ -68,12 +68,8 @@
 <p>🌱 <strong>Tôi hiện đang học</strong> lập trình game thông qua Unity với hai ngôn ngữ chính: Python và C++</p>
 <p>💞️ <strong>Tôi muốn hợp tác về:</strong> Các dự án mã nguồn mở liên quan đến thương mại điện tử, lập trình website (cả front-end và back-end), lập trình game và phát triển ứng dụng di động.</p>
 <p>&nbsp;</p>
- <iframe id="inlineFrameExample" 
-    title="Inline Frame Example" 
-    width="300" 
-    height="200" 
-    src="https://drive.google.com/file/d/1e8b8III0s6ljf8TKAadm4chAEpkR6HNw/view?usp=sharing"> 
-</iframe> 
+<br>________________________________________________<br>Bên cạnh đó bạn cũng có thể xem qua cụ thể phương án thực hiện và các chức năng trong đồ án của tôi tại google drive:&nbsp;<br href="[my-file.pdf](https://drive.google.com/file/d/1e8b8III0s6ljf8TKAadm4chAEpkR6HNw/view?usp=sharing)">https://drive.google.com/file/d/1e8b8III0s6ljf8TKAadm4chAEpkR6HNw/view?usp=sharing</p>
+ 
 ## 🌐Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/680666752966983685) 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/khoi.bao.739) 
