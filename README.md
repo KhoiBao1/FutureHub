@@ -2,6 +2,10 @@
 <strong>&nbsp;E-commerce for Smart Devices and Robotics</strong>
 </h1>
 <hr>
+<p>
+<strong>*New update*</strong>
+<br>
+<strong>Score: </strong>90/100</p>
 <h2>
 <strong>About Me</strong>
 </h2>
@@ -36,6 +40,10 @@
 <strong>Website Thương mại cho Thiết bị thông minh và Robot</strong>
 </h1>
 <hr>
+<p>
+<strong>*Cập nhật mới*</strong>
+<br>
+<strong>Điểm số: </strong>90/100</p>
 <h3>
 <strong>Về Tôi</strong>
 </h3>
