@@ -5,7 +5,7 @@
 <p>
 <strong>*New update*</strong>
 <br>
-<strong>Score: </strong>90/100</p>
+<strong>Score (based on presentations, product demonstrations and answering questions given): </strong>90/100</p>
 <h2>
 <strong>About Me</strong>
 </h2>
@@ -43,7 +43,7 @@
 <p>
 <strong>*Cập nhật mới*</strong>
 <br>
-<strong>Điểm số: </strong>90/100</p>
+<strong>Điểm số (đã dựa trên thuyết trình, trình bày sản phẩm và trả lời các câu hỏi được đưa ra): </strong>90/100</p>
 <h3>
 <strong>Về Tôi</strong>
 </h3>
