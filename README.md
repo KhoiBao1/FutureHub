@@ -23,7 +23,6 @@
 <p>
 <strong>Database Management</strong>: MongoDB</p>
 <p>
-<strong>Authentication</strong>: JSON Web Tokens (JWT), OAuth</p>
 <h4>🔥 <strong>Other Skills</strong>
 </h4>
 <p>
@@ -31,7 +30,6 @@
 <p>
 <strong>Testing</strong>: Jest, Mocha, Postman</p>
 <p>🌱 <strong>I’m currently learning</strong> game programming through Unity with two main languages: Python and C++</p>
-<p>💞️ <strong>I’m looking to collaborate on:</strong> Open-source e-commerce projects, website programming (both front-end and back-end), game programming, and mobile application development.</p>
 <br>________________________________________________<br>Beside that, you can also take a look at the specific implementations plan and functions in my project at google drive-This report does not have the English version:&nbsp;<br href="https://drive.google.com/file/d/1e8b8III0s6ljf8TKAadm4chAEpkR6HNw/view?usp=sharing">https://drive.google.com/file/d/1e8b8III0s6ljf8TKAadm4chAEpkR6HNw/view?usp=sharing</br>
 <hr>
 <h1>
@@ -58,8 +56,6 @@
 <strong>Ngôn ngữ &amp; Frameworks</strong>: Node.js, Express.js</p>
 <p>
 <strong>Quản lý cơ sở dữ liệu</strong>: MongoDB</p>
-<p>
-<strong>Xác thực</strong>: JSON Web Tokens (JWT), OAuth</p>
 <h4>🔥 <strong>Kỹ năng khác</strong>
 </h4>
 <p>
@@ -67,7 +63,6 @@
 <p>
 <strong>Testing</strong>: Jest, Mocha, Postman</p>
 <p>🌱 <strong>Tôi hiện đang học</strong> lập trình game thông qua Unity với hai ngôn ngữ chính: Python và C++</p>
-<p>💞️ <strong>Tôi muốn hợp tác về:</strong> Các dự án mã nguồn mở liên quan đến thương mại điện tử, lập trình website (cả front-end và back-end), lập trình game và phát triển ứng dụng di động.</p>
 <p>&nbsp;</p>
 <br>________________________________________________<br>Bên cạnh đó bạn cũng có thể xem qua cụ thể các phương án thực hiện và các chức năng trong đồ án của FutureHub của tôi tại google drive:&nbsp;<br href="https://drive.google.com/file/d/1e8b8III0s6ljf8TKAadm4chAEpkR6HNw/view?usp=sharing">https://drive.google.com/file/d/1e8b8III0s6ljf8TKAadm4chAEpkR6HNw/view?usp=sharing</p>
  
