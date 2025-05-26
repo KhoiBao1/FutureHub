@@ -32,7 +32,6 @@
 <p>
 <strong>Version Control</strong>: Git, GitHub, Docker</p>
 <p>
-<strong>Testing</strong>: Jest, Mocha, Postman</p>
 <p>🌱 <strong>I’m currently learning</strong> game programming through Unity with two main languages: Python and C++</p>
 <br>________________________________________________<br>Beside that, you can also take a look at the specific implementations plan and functions in my project at google drive-This report does not have the English version:&nbsp;<br href="https://drive.google.com/file/d/1e8b8III0s6ljf8TKAadm4chAEpkR6HNw/view?usp=sharing">https://drive.google.com/file/d/1e8b8III0s6ljf8TKAadm4chAEpkR6HNw/view?usp=sharing</br>
 <hr>
@@ -68,8 +67,7 @@
 </h4>
 <p>
 <strong>Version Control</strong>: Git, GitHub, Docker</p>
-<p>
-<strong>Testing</strong>: Jest, Mocha, Postman</p>
+
 <p>🌱 <strong>Tôi hiện đang học</strong> lập trình game thông qua Unity với hai ngôn ngữ chính: Python và C++</p>
 <p>&nbsp;</p>
 <br>________________________________________________<br>Bên cạnh đó bạn cũng có thể xem qua cụ thể các phương án thực hiện và các chức năng trong đồ án của FutureHub của tôi tại google drive:&nbsp;<br href="https://drive.google.com/file/d/1e8b8III0s6ljf8TKAadm4chAEpkR6HNw/view?usp=sharing">https://drive.google.com/file/d/1e8b8III0s6ljf8TKAadm4chAEpkR6HNw/view?usp=sharing</p>
